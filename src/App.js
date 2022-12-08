@@ -1,10 +1,10 @@
-
-
+import React from "react";
+import FullCalendarComps from "./components/FullCalendar";
 function App() {
   return (
    <>
-    <p>helo</p>
-   </>
+    <FullCalendarComps />
+    </>
   );
 }
 
